@@ -1,0 +1,22 @@
+# Lobsang Solutions LLC - robots.txt
+# All search and AI crawlers are welcome. There is no content to hide.
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://lobsangsolutions.com/sitemap.xml
